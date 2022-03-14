@@ -1,0 +1,191 @@
+body{
+background-color: #e5d9db;
+background-image: url(img/lightblue.jpg);
+background-repeat: no-repeat;
+background-position: right top;
+background-size: 70% 720px ;
+margin-top: 3px;
+
+
+}
+h2{
+    text-align: center;
+}
+.navbar-brand{
+    font-family:'Brush Script MT', cursive;
+    font-size: 40px;
+    margin-left: 15px;
+}
+
+.about{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 35% 700px ;
+    margin-left: 5%;
+    
+
+}
+.about>img{
+    width: 24%;
+    background-size: cover;
+    margin-left: 5%;
+    
+}
+.h1{
+    display: inline-block;
+    margin-bottom: 15%;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background-color: #eb96aa;
+    font-size: 25px;
+    color: white;
+    
+
+
+}
+.aboutMe{
+    margin-top: 10%; 
+    margin-left: 3%;
+}
+.b1{
+    
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    border: 2px;
+    margin: 10px;
+    background-color:rgb(153, 200, 216);
+    font-size: 20px;
+}
+
+.exp{
+    
+    margin-top: 1%; 
+    margin-left: 3%;
+    
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 320px;
+    padding: 10px;
+    border: 2px;
+    margin: 10px;
+    background-color:rgb(153, 200, 216);
+    font-size: 20px;
+}
+
+
+.quli{
+    margin-top: 1%; 
+    margin-left: 3%;
+   
+}
+.Qcard{
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    border: 2px;
+    margin: 10px;
+    background-color:rgb(153, 200, 216);
+    font-size: 20px;
+}
+#lang{
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    border: 2px;
+    margin: 10px;
+    background-color:rgb(153, 200, 216);
+    
+   
+}
+#limg{
+    width: 14%;
+    float: right;
+    margin-right: 2%;
+    
+}
+
+.skill{
+    margin-top: 1%; 
+    margin-left: 3%;
+}
+.Scard {
+    width: 100%;
+    height: 500px;
+    padding: 10px;
+    border: 2px;
+    margin: 10px;
+    display: inline-block;
+    background-color: rgb(153, 200, 216);
+    font-size: 20px;
+}
+.project{
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.Pcard{
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    border: 2px;
+    margin: 10px;
+    display: inline-block;
+    background-color: rgb(153, 200, 216);
+   text-align: left;
+   font-size: 20px;
+}
+
+.referances{
+    margin-top: 5px;
+    margin-bottom: 10%;
+    margin-left: 3%; 
+    border: 2px solid white;
+}
+.Rcard {
+    display: inline-block;
+    box-shadow:8px rgba(0,0,0,0.2);
+    background-color: white;
+    width: 20%;
+    text-align: center;
+    margin: 5%;
+    
+  }
+
+  .Rcard:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+footer{
+    width: 100%;
+    text-align: center;
+    padding:50px 0;
+  color:#f0f9ff;
+  background-color:#585a5c;
+  opacity: 0.6;
+}
+.link{
+    display: block;
+    text-align: right;
+    margin-right: 5%;
+    color: white;
+}
+@media screen and (min-width: 480px) and (max-width: 768px)
+   { 
+    
+    }
+
+
+@media screen and (max-width: 479px){
+
+    
+    }
